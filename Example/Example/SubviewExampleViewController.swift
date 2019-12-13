@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import InputBarAccessoryView
 
 final class SubviewExampleViewController: CommonTableViewController {
     

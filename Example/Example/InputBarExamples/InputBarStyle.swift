@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import InputBarAccessoryView
 
 enum InputBarStyle: String, CaseIterable {
     

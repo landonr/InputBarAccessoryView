@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import InputBarAccessoryView
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
